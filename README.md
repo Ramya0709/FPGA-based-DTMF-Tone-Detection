@@ -6,6 +6,11 @@ This project implements a Dual-Tone Multi-Frequency (DTMF) tone detection system
 
 The design is implemented using Verilog and is targeted for FPGA platforms for efficient and high-speed digital signal processing applications.
 
+## Tools and Technologies used
+ * Verilog HDL
+ * Xilinx Vivado
+ * Kintex KC705 FPGA board
+
 ## Introduction to DTMF
 DTMF (Dual-Tone Multi-Frequency) is the signaling technique used in telephone systems. Each key on a telephone keypad generates a combination of two frequencies:
   * One frequency from the low-frequency group
